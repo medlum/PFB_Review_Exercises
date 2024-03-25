@@ -34,8 +34,10 @@ unit = "20-22"
 street = "clementi road" 
 postal_code = "573679"
 
-# 9. Use `.replace()` to replace `Rihana` to `BTS` in `favourite_artist` variable.
+# 9. Use `.replace()` to replace `Rihana` to `BTS`, replace 'my' to 'his' in `favourite_artist` variable
+# so it becomes 'BTS is his favourite artist'.
 favourite_artist = "Rihana is my favourite artist"
+
 
 # 10.  
 # Ask a user's for his/her favourite colour and print the number of characters of the colour.
