@@ -1,3 +1,4 @@
+
 # 1. Create 2 string variables `firstname`, `lastname` with 
 # your own name first and last name.
 
